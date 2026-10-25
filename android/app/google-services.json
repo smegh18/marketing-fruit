@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865810323989",
+    "firebase_url": "https://marketingfruit-9e24d-default-rtdb.firebaseio.com",
+    "project_id": "marketingfruit-9e24d",
+    "storage_bucket": "marketingfruit-9e24d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865810323989:android:47f5f4d52d624520c0cc1c",
+        "android_client_info": {
+          "package_name": "com.marketing.Marketing_Fruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865810323989-sprbqmmelee68otk5gbnsbneeprhi305.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marketing.Marketing_Fruit",
+            "certificate_hash": "e68e7cda2e61100604af099824e2afae55b1e0eb"
+          }
+        },
+        {
+          "client_id": "865810323989-brnpmjjciojv028j1vnker0cbhqm3g3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEn-jZ6g7HJk7NfiZOa_29HoPMjrJypWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865810323989-brnpmjjciojv028j1vnker0cbhqm3g3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865810323989-65f0ugja8s2piustr5p2lskarq0mcflr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marketing.Marketing_Fruit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
