@@ -88,7 +88,7 @@ dependencies:
   smooth_page_indicator: ^1.1.0
   flutter_stripe: ^11.5.0
   walletconnect_flutter_v2: ^2.0.14
-  web3auth_flutter: ^8.0.0
+#  web3auth_flutter: ^8.0.0
 
 
 
